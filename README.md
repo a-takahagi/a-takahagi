@@ -9,9 +9,11 @@ Distribution / Health Care / Education / Tax Payment / Auction
 ### Language
 
 <p>
-<img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat">
+<img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat&logoColor=white">
 <img src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat&logoColor=white">
 <img src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&style=flat&logoColor=white">
+<img src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&style=flat&logoColor=white">
+<img src="https://img.shields.io/badge/-Java-3a75b0.svg?logo=openjdk&style=flat&logoColor=white">
 <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
 <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
 </p>
@@ -26,6 +28,7 @@ Distribution / Health Care / Education / Tax Payment / Auction
 ### Middleware
 
 <p>
+<img src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&style=flat&logoColor=white">
 <img src="https://img.shields.io/badge/-Oracle-f80000.svg?logo=oracle&style=flat">
 <img src="https://img.shields.io/badge/-PostgreSQL-336791.svg?logo=postgresql&style=flat&logoColor=white">
 <img src="https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=flat">
