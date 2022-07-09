@@ -22,6 +22,10 @@ Distribution / Health Care / Education / Tax Payment / Auction
 
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&style=flat&logoColor=white">
+<img src="https://img.shields.io/badge/Next-000000.svg?logo=next.js&style=flat&logoColor=white">
+<img src="https://img.shields.io/badge/Vue-4FC08D.svg?logo=vue.js&style=flat&logoColor=white">
+<img src="https://img.shields.io/badge/Angular-DD0031.svg?logo=angular&style=flat&logoColor=white">
+<img src="https://img.shields.io/badge/-Laravel-FF2D20.svg?logo=laravel&style=flat&logoColor=white">
 <img src="https://img.shields.io/badge/-Rails-CC0000.svg?logo=rubyonrails&style=flat">
 </p>
 
@@ -37,6 +41,13 @@ Distribution / Health Care / Education / Tax Payment / Auction
 
 ### Design
 
+<p>
+<img src="https://img.shields.io/badge/Illustrator-FF9A00.svg?logo=adobeillustrator&style=flat&logoColor=white">
+<img src="https://img.shields.io/badge/Photoshop-31A8FF.svg?logo=adobephotoshop&style=flat&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&style=flat&logoColor=white">
+<img src="https://img.shields.io/badge/MUI-007FFF.svg?logo=mui&style=flat&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind-06B6D4.svg?logo=tailwindcss&style=flat&logoColor=white">
+</p>
 
 ### Environment
 
@@ -45,5 +56,9 @@ Distribution / Health Care / Education / Tax Payment / Auction
 <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat">
 <img src="https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat">
 <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">
-<img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat">
+<img src="https://img.shields.io/badge/-Docker-2496ED.svg?logo=docker&style=flat&logoColor=white">
+<img src="https://img.shields.io/badge/-Slack-4A154B.svg?logo=slack&style=flat&logoColor=white">
+<img src="https://img.shields.io/badge/-box-0061D5.svg?logo=box&style=flat&logoColor=white">
+<img src="https://img.shields.io/badge/-zoom-2D8CFF.svg?logo=zoom&style=flat&logoColor=white">
+<img src="https://img.shields.io/badge/-jira-0052CC.svg?logo=jira&style=flat&logoColor=white">
 </p>
