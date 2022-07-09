@@ -2,7 +2,13 @@
 
 Web Application System Creator (NOT Engineer)
 
-Distribution / Health Care / Education / Tax Payment / Auction
+<p>
+<img src="https://img.shields.io/badge/-Distribution-ef4444.svg">
+<img src="https://img.shields.io/badge/-Health Care-f97316.svg">
+<img src="https://img.shields.io/badge/-Education-f59e0b.svg">
+<img src="https://img.shields.io/badge/-Tax Payment-facc15.svg">
+<img src="https://img.shields.io/badge/-Auction-84cc16.svg">
+</p>
 
 ## EcoSystem
 
