@@ -14,8 +14,8 @@ Distribution / Health Care / Education / Tax Payment / Auction
 <img src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&style=flat&logoColor=white">
 <img src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&style=flat&logoColor=white">
 <img src="https://img.shields.io/badge/-Java-3a75b0.svg?logo=openjdk&style=flat&logoColor=white">
-<img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
 <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
+<img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
 </p>
 
 ### Framework, Library
