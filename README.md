@@ -1,14 +1,8 @@
-## Profile
+## Fields of Business
 
 Web Application System Creator (NOT Engineer)
 
-### Fields of Business
-
-- Distribution
-- Health Care
-- Education
-- Tax Payment
-- Auction
+Distribution / Health Care / Education / Tax Payment / Auction
 
 ## EcoSystem
 
