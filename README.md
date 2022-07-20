@@ -1,7 +1,5 @@
 ## Fields of Business
 
-Web Application System Creator (NOT Engineer)
-
 <p>
 <img src="https://img.shields.io/badge/-Distribution-ef4444.svg">
 <img src="https://img.shields.io/badge/-Health Care-f97316.svg">
